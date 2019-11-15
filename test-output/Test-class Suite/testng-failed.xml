@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [Test-class Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="tests" name="Test2(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="http://www.atmecs.com/"/>
+    <classes>
+      <class name="com.atmecs.ToolsninjaAutomation.testScripts.ValidateAnchors">
+        <methods>
+          <include name="moveToInfrastructure"/>
+          <include name="isDigitalLifeAnchorPresent"/>
+          <include name="isInfrastructureAnchorPresent"/>
+          <include name="initializeVariable"/>
+          <include name="moveToDigitalLife"/>
+          <include name="intitailizeBrowser"/>
+          <include name="tearResource"/>
+        </methods>
+      </class> <!-- com.atmecs.ToolsninjaAutomation.testScripts.ValidateAnchors -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test thread-count="3" parallel="tests" name="Test1(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="http://www.atmecs.com/"/>
+    <classes>
+      <class name="com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts">
+        <methods>
+          <include name="clickHeaderPartners"/>
+          <include name="validatefooterForContacts"/>
+          <include name="validatefooterForCareers"/>
+          <include name="clickHeaderMedia"/>
+          <include name="validatefooterForInsights"/>
+          <include name="validatefooterForPartner"/>
+          <include name="clickHeaderAboutUs"/>
+          <include name="intitailizeBrowser"/>
+          <include name="clickContactUs"/>
+          <include name="validatefooterForServices"/>
+          <include name="validatefooterForMedia"/>
+          <include name="clickInsights"/>
+          <include name="clickHeaderCareers"/>
+          <include name="tearResource"/>
+          <include name="clickHeaderServices"/>
+          <include name="homePageRedirection"/>
+          <include name="validatefooterForAboutUs"/>
+        </methods>
+      </class> <!-- com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Test-class Suite] -->

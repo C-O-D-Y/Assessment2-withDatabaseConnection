@@ -1,0 +1,1169 @@
+<html>
+<head>
+<title>TestNG:  Test1</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test1</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>218/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Nov 05 17:17:01 IST 2019</td>
+</tr>
+<tr><td>Total time:</td><td>59 seconds (59615 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.clickContactUs()'><b>clickContactUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts</td>
+<td></td>
+<td>2</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.clickHeaderAboutUs()'><b>clickHeaderAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts</td>
+<td></td>
+<td>2</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.clickHeaderCareers()'><b>clickHeaderCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts</td>
+<td></td>
+<td>2</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.clickHeaderMedia()'><b>clickHeaderMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.clickHeaderPartners()'><b>clickHeaderPartners</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts</td>
+<td></td>
+<td>2</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.clickHeaderServices()'><b>clickHeaderServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts</td>
+<td></td>
+<td>5</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.clickInsights()'><b>clickInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.homePageRedirection()'><b>homePageRedirection</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Home</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: About Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Partners</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Case Studies old</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: News</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Careers</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Contact Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Artificial Intelligence / Machine Learning</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Augmented Reality / Virtual Reality</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Quality Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Blockchain</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Robotic Process Automation & ChatBOTs</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Cloud Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Enterprise Analytics</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Internet of Things</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Mobile Computing</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Product Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Automation Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: DevOps Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior .NET Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior Java/J2EE Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US Headquarters</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US R&D Center</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Hyderabad</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Bangalore</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Chennai</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: info@atmecs.com</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Europe � Ireland</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForAboutUs()'><b>validatefooterForAboutUs</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: null</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Home</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: About Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Partners</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Case Studies old</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: News</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Careers</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Contact Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Artificial Intelligence / Machine Learning</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Augmented Reality / Virtual Reality</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Quality Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Blockchain</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Robotic Process Automation & ChatBOTs</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Cloud Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Enterprise Analytics</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Internet of Things</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Mobile Computing</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Product Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Automation Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: DevOps Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior .NET Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior Java/J2EE Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US Headquarters</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US R&D Center</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Hyderabad</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Bangalore</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Chennai</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: info@atmecs.com</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Europe � Ireland</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForCareers()'><b>validatefooterForCareers</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: null</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Home</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: About Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Partners</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Case Studies old</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: News</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Careers</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Contact Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Artificial Intelligence / Machine Learning</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Augmented Reality / Virtual Reality</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Quality Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Blockchain</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Robotic Process Automation & ChatBOTs</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Cloud Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Enterprise Analytics</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Internet of Things</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Mobile Computing</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Product Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Automation Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: DevOps Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior .NET Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior Java/J2EE Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US Headquarters</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US R&D Center</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Hyderabad</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Bangalore</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Chennai</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: info@atmecs.com</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Europe � Ireland</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForContacts()'><b>validatefooterForContacts</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: null</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Home</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: About Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Partners</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Case Studies old</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: News</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Careers</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Contact Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Artificial Intelligence / Machine Learning</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Augmented Reality / Virtual Reality</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Quality Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Blockchain</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Robotic Process Automation & ChatBOTs</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Cloud Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Enterprise Analytics</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Internet of Things</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Mobile Computing</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Product Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Automation Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: DevOps Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior .NET Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior Java/J2EE Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US Headquarters</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US R&D Center</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Hyderabad</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Bangalore</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Chennai</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: info@atmecs.com</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Europe � Ireland</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForInsights()'><b>validatefooterForInsights</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: null</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Home</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: About Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Partners</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Case Studies old</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: News</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Careers</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Contact Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Artificial Intelligence / Machine Learning</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Augmented Reality / Virtual Reality</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Quality Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Blockchain</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Robotic Process Automation & ChatBOTs</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Cloud Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Enterprise Analytics</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Internet of Things</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Mobile Computing</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Product Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Automation Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: DevOps Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior .NET Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior Java/J2EE Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US Headquarters</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US R&D Center</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Hyderabad</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Bangalore</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Chennai</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: info@atmecs.com</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Europe � Ireland</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForMedia()'><b>validatefooterForMedia</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: null</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Home</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: About Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Partners</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Case Studies old</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: News</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Careers</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Contact Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Artificial Intelligence / Machine Learning</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Augmented Reality / Virtual Reality</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Quality Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Blockchain</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Robotic Process Automation & ChatBOTs</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Cloud Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Enterprise Analytics</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Internet of Things</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Mobile Computing</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Product Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Automation Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: DevOps Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior .NET Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior Java/J2EE Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US Headquarters</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US R&D Center</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Hyderabad</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Bangalore</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Chennai</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: info@atmecs.com</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Europe � Ireland</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForPartner()'><b>validatefooterForPartner</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: null</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Home</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: About Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Partners</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Case Studies old</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: News</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Careers</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Contact Us</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Artificial Intelligence / Machine Learning</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Augmented Reality / Virtual Reality</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Quality Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Blockchain</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Robotic Process Automation & ChatBOTs</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Cloud Services</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Enterprise Analytics</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Internet of Things</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Mobile Computing</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Product Engineering</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Automation Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: DevOps Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior .NET Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Senior Java/J2EE Engineer</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US Headquarters</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: US R&D Center</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Hyderabad</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Bangalore</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: India � Chennai</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: info@atmecs.com</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: Europe � Ireland</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+<tr>
+<td title='com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts.validatefooterForServices()'><b>validatefooterForServices</b><br>Test class: com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts<br>Parameters: null</td>
+<td></td>
+<td>0</td>
+<td>com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts@5a955565</td></tr>
+</table><p>
+</body>
+</html>

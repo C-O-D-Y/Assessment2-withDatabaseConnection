@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [Testing dynamic suite]">
+  <test thread-count="3" parallel="tests" name="Test validate chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts">
+        <methods>
+          <include name="clickContactUs"/>
+          <include name="print"/>
+          <include name="endReport"/>
+          <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="intitailizeBrowser"/>
+        </methods>
+      </class> <!-- com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts -->
+    </classes>
+  </test> <!-- Test validate chrome(failed) -->
+  <test thread-count="3" parallel="tests" name="Test validate ie(failed)">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts">
+        <methods>
+          <include name="print"/>
+          <include name="validatefooterForServices" invocation-numbers="2"/>
+          <include name="endReport"/>
+          <include name="tearDown"/>
+          <include name="clickHeaderAboutUs"/>
+          <include name="clickHeaderCareers"/>
+          <include name="startReport"/>
+          <include name="intitailizeBrowser"/>
+        </methods>
+      </class> <!-- com.atmecs.ToolsninjaAutomation.testScripts.HomePagetestscripts -->
+    </classes>
+  </test> <!-- Test validate ie(failed) -->
+</suite> <!-- Failed suite [Testing dynamic suite] -->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ninjaStoreTestSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="ninjaStoreTestScenario(failed)" verbose="0">
+    <classes>
+      <class name="com.atmecs.ToolsninjaAutomation.testScripts.NinjaStoreTestScripts">
+        <methods>
+          <include name="searchProductAndCheckAvailability"/>
+          <include name="checkGrandTotal"/>
+          <include name="validateGrandTotal"/>
+          <include name="getUrl"/>
+          <include name="homePageRedirection"/>
+          <include name="validateErrorMessage"/>
+          <include name="validateGrandTotalAfterRemovingItem"/>
+          <include name="intitailizeBrowser"/>
+          <include name="tearResource"/>
+        </methods>
+      </class> <!-- com.atmecs.ToolsninjaAutomation.testScripts.NinjaStoreTestScripts -->
+    </classes>
+  </test> <!-- ninjaStoreTestScenario(failed) -->
+</suite> <!-- Failed suite [ninjaStoreTestSuite] -->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [Default Suite (0)]">
+  <test thread-count="2" parallel="tests" name="Test validate chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://www.toolsqa.com/automation-practice-table/"/>
+    <classes>
+      <class name="com.atmecs.ToolsninjaAutomation.testScripts.GetTableData">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="getDataByNumbers"/>
+          <include name="getRowData"/>
+          <include name="loadLocatorsFile"/>
+          <include name="getPosition"/>
+          <include name="intitailizeBrowser"/>
+          <include name="tearResource"/>
+          <include name="getData"/>
+        </methods>
+      </class> <!-- com.atmecs.ToolsninjaAutomation.testScripts.GetTableData -->
+    </classes>
+  </test> <!-- Test validate chrome(failed) -->
+</suite> <!-- Failed suite [Default Suite (0)] -->
