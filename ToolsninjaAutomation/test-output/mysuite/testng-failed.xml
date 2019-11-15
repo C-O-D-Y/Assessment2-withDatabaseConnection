@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="15" parallel="tests" name="Failed suite [mysuite]">
+  <test thread-count="15" parallel="tests" name="Test validate chromecom.atmecs.ToolsninjaAutomation.testScripts.HeatClinicTestScripts(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.atmecs.ToolsninjaAutomation.testScripts.HeatClinicTestScripts">
+        <methods>
+          <include name="validateCart"/>
+          <include name="validateUpdatedGrandTotal"/>
+          <include name="chooseShirt"/>
+          <include name="getUrl"/>
+          <include name="intitailizeBrowser"/>
+          <include name="tearResource"/>
+        </methods>
+      </class> <!-- com.atmecs.ToolsninjaAutomation.testScripts.HeatClinicTestScripts -->
+    </classes>
+  </test> <!-- Test validate chromecom.atmecs.ToolsninjaAutomation.testScripts.HeatClinicTestScripts(failed) -->
+</suite> <!-- Failed suite [mysuite] -->

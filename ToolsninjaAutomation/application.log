@@ -1,0 +1,1080 @@
+2019-11-11 19:18:38,453  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:18:40,269  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:18:40,295  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:18:41,793  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:18:41,819  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:18:43,208  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:18:43,233  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:18:44,510  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:18:44,533  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:18:45,936  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:18:45,965  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:18:45,970  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:18:49,751  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-11 19:18:49,753  INFO [main] LogReport:37 - validating viewmens page
+2019-11-11 19:18:49,961  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-11 19:18:49,962  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-11 19:19:03,914  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-11 19:19:03,915  INFO [main] LogReport:37 - clothing validation starting
+2019-11-11 19:19:04,116  INFO [main] LogReport:37 - validating cart details
+2019-11-11 19:19:09,138  INFO [main] LogReport:37 -  cart details are correct
+2019-11-11 19:19:09,139  INFO [main] LogReport:37 - validating cart details
+2019-11-11 19:19:09,140  INFO [main] LogReport:37 -  cart details are correct
+2019-11-11 19:19:09,141  INFO [main] LogReport:37 - validating updated grand total
+2019-11-11 19:19:13,303  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-11 19:19:17,668  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:19:17,691  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-11 19:19:17,691  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-11 19:19:20,408  INFO [main] LogReport:37 - product name is correct
+2019-11-11 19:19:22,996  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-11 19:19:22,996  INFO [main] LogReport:37 - Validation done
+2019-11-11 19:19:28,614  INFO [main] LogReport:37 - product name is correct
+2019-11-11 19:19:30,869  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-11 19:19:30,870  INFO [main] LogReport:37 - Validation done
+2019-11-11 19:41:05,217  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:41:05,249  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:41:06,555  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:41:06,582  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:41:07,746  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:41:07,771  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:41:08,904  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:41:08,930  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:41:10,078  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:41:10,106  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:41:10,114  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:41:13,394  INFO [main] LogReport:37 - validating viewmens page
+2019-11-11 19:41:19,716  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-11 19:41:26,191  INFO [main] LogReport:37 - validating cart details
+2019-11-11 19:41:33,462  INFO [main] LogReport:37 - validating cart details
+2019-11-11 19:41:33,464  INFO [main] LogReport:37 -  cart details are correct
+2019-11-11 19:41:33,478  INFO [main] LogReport:37 - validating updated grand total
+2019-11-11 19:43:04,041  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:43:04,072  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:43:05,594  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:43:05,618  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:43:06,887  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:43:06,910  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:43:08,154  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:43:08,176  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:43:09,488  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:43:09,512  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:43:09,521  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:43:13,989  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-11 19:43:13,994  INFO [main] LogReport:37 - validating viewmens page
+2019-11-11 19:43:14,173  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-11 19:43:14,177  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-11 19:43:30,229  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-11 19:43:30,237  INFO [main] LogReport:37 - clothing validation starting
+2019-11-11 19:43:30,395  INFO [main] LogReport:37 - validating cart details
+2019-11-11 19:43:35,926  INFO [main] LogReport:37 -  cart details are correct
+2019-11-11 19:43:35,929  INFO [main] LogReport:37 - validating cart details
+2019-11-11 19:43:35,929  INFO [main] LogReport:37 -  cart details are correct
+2019-11-11 19:43:35,933  INFO [main] LogReport:37 - validating updated grand total
+2019-11-11 19:43:40,204  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-11 19:44:45,573  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:44:45,606  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-11 19:44:45,606  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-11 19:44:48,879  INFO [main] LogReport:37 - product name is correct
+2019-11-11 19:44:51,074  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-11 19:44:51,074  INFO [main] LogReport:37 - Validation done
+2019-11-11 19:44:57,365  INFO [main] LogReport:37 - product name is correct
+2019-11-11 19:45:00,304  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-11 19:45:00,304  INFO [main] LogReport:37 - Validation done
+2019-11-11 19:58:55,745  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:58:55,775  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:58:57,263  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:58:57,291  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:58:58,499  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:58:58,526  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:58:59,706  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:58:59,732  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:59:01,012  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:59:01,037  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-11 19:59:04,808  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-11 19:59:04,812  INFO [main] LogReport:37 - validating viewmens page
+2019-11-11 19:59:05,048  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-11 19:59:05,052  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-11 19:59:18,918  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-11 19:59:18,918  INFO [main] LogReport:37 - clothing validation starting
+2019-11-11 19:59:19,112  INFO [main] LogReport:37 - validating cart details
+2019-11-11 19:59:23,951  INFO [main] LogReport:37 -  cart details are correct
+2019-11-11 19:59:23,955  INFO [main] LogReport:37 - validating updated grand total
+2019-11-11 19:59:28,243  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-11 19:59:32,576  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-11 19:59:32,663  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-11 19:59:32,663  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-11 19:59:35,335  INFO [main] LogReport:37 - product name is correct
+2019-11-11 19:59:37,823  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-11 19:59:37,823  INFO [main] LogReport:37 - Validation done
+2019-11-11 19:59:43,264  INFO [main] LogReport:37 - product name is correct
+2019-11-11 19:59:45,751  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-11 19:59:45,751  INFO [main] LogReport:37 - Validation done
+2019-11-12 11:16:45,140  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:16:45,215  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:16:46,701  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:16:46,724  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:16:48,183  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:16:48,206  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:16:49,505  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:16:49,527  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:16:50,791  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:16:50,814  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:16:54,724  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 11:16:54,728  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 11:16:54,913  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 11:16:54,916  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 11:17:09,442  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 11:17:09,442  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 11:17:09,631  INFO [main] LogReport:37 - validating cart details
+2019-11-12 11:17:14,491  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 11:17:14,495  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 11:17:18,449  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 11:17:24,413  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:17:24,438  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 11:17:24,439  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 11:17:27,503  INFO [main] LogReport:37 - product name is correct
+2019-11-12 11:17:30,237  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 11:17:30,238  INFO [main] LogReport:37 - Validation done
+2019-11-12 11:17:35,528  INFO [main] LogReport:37 - product name is correct
+2019-11-12 11:17:37,713  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 11:17:37,713  INFO [main] LogReport:37 - Validation done
+2019-11-12 11:23:16,159  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:23:16,190  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:23:17,619  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:23:17,644  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:23:18,996  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:23:19,021  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:23:20,430  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:23:20,473  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:23:21,741  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:23:21,779  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:23:25,429  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 11:23:25,431  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 11:23:25,702  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 11:23:25,703  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 11:23:39,237  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 11:23:39,237  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 11:23:39,360  INFO [main] LogReport:37 - validating cart details
+2019-11-12 11:23:44,275  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 11:23:44,277  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 11:23:48,031  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 11:23:52,887  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:23:52,912  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 11:23:52,913  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 11:23:55,616  INFO [main] LogReport:37 - product name is correct
+2019-11-12 11:23:57,879  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 11:23:57,880  INFO [main] LogReport:37 - Validation done
+2019-11-12 11:24:03,198  INFO [main] LogReport:37 - product name is correct
+2019-11-12 11:24:05,468  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 11:24:05,469  INFO [main] LogReport:37 - Validation done
+2019-11-12 11:27:37,399  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:27:37,427  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 11:27:37,428  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 11:27:41,062  INFO [main] LogReport:37 - product name is correct
+2019-11-12 11:27:43,516  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 11:27:43,517  INFO [main] LogReport:37 - Validation done
+2019-11-12 11:27:48,716  INFO [main] LogReport:37 - product name is correct
+2019-11-12 11:27:51,246  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 11:27:51,246  INFO [main] LogReport:37 - Validation done
+2019-11-12 11:29:12,524  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:29:12,551  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:29:14,084  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:29:14,110  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:29:15,532  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:29:15,554  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:29:16,923  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:29:16,947  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:29:18,446  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:29:18,469  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 11:29:22,231  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 11:29:22,236  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 11:29:22,460  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 11:29:22,463  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 11:29:35,765  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 11:29:35,766  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 11:29:35,891  INFO [main] LogReport:37 - validating cart details
+2019-11-12 11:29:40,670  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 11:29:40,674  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 11:29:44,449  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 11:29:49,963  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 11:29:49,987  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 11:29:49,988  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 11:29:52,813  INFO [main] LogReport:37 - product name is correct
+2019-11-12 11:29:55,959  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 11:29:55,960  INFO [main] LogReport:37 - Validation done
+2019-11-12 11:30:01,622  INFO [main] LogReport:37 - product name is correct
+2019-11-12 11:30:03,843  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 11:30:03,843  INFO [main] LogReport:37 - Validation done
+2019-11-12 15:18:48,853  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 15:18:48,897  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 15:18:50,843  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 15:18:50,868  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 15:18:52,591  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 15:18:52,621  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 15:18:54,331  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 15:18:54,356  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 15:18:55,900  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 15:18:55,925  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 15:18:59,770  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 15:18:59,772  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 15:19:00,102  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 15:19:00,104  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 15:19:14,480  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 15:19:14,480  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 15:19:14,730  INFO [main] LogReport:37 - validating cart details
+2019-11-12 15:19:19,900  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 15:19:19,902  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 15:19:24,045  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 15:19:28,824  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 15:19:28,870  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 15:19:28,871  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 15:19:32,198  INFO [main] LogReport:37 - product name is correct
+2019-11-12 15:19:35,018  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 15:19:35,019  INFO [main] LogReport:37 - Validation done
+2019-11-12 15:19:40,877  INFO [main] LogReport:37 - product name is correct
+2019-11-12 15:19:43,650  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 15:19:43,651  INFO [main] LogReport:37 - Validation done
+2019-11-12 15:26:04,576  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 15:26:04,610  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 15:26:04,610  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 15:26:08,309  INFO [main] LogReport:37 - product name is correct
+2019-11-12 15:26:10,650  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 15:26:10,651  INFO [main] LogReport:37 - Validation done
+2019-11-12 15:26:15,865  INFO [main] LogReport:37 - product name is correct
+2019-11-12 15:26:18,057  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 15:26:18,057  INFO [main] LogReport:37 - Validation done
+2019-11-12 16:13:27,519  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 16:13:27,526  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:13:27,714  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 16:13:27,717  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:13:41,341  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 16:13:41,341  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 16:13:41,527  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:13:51,047  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:14:37,790  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:14:37,826  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:14:41,448  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 16:14:41,453  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:14:41,674  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 16:14:41,679  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:14:55,497  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 16:14:55,497  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 16:14:55,669  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:15:00,317  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 16:15:00,320  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:15:04,174  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 16:16:52,481  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:16:52,525  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:16:56,140  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 16:16:56,146  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:16:56,388  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 16:16:56,392  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:17:10,145  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 16:17:10,146  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 16:17:10,310  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:17:14,757  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 16:17:14,760  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:17:18,799  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 16:19:30,809  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:19:30,847  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:19:32,482  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:19:32,504  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:19:34,119  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:19:34,157  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:19:37,775  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 16:19:37,779  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:19:38,070  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 16:19:38,075  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:19:51,629  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 16:19:51,631  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 16:19:51,875  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:19:56,953  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 16:19:56,957  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:20:01,083  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 16:30:41,132  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:30:41,147  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:30:41,321  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:30:41,336  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:31:37,911  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:31:37,942  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:31:39,730  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:31:39,757  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:31:41,376  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:31:41,401  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:31:43,046  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:31:43,070  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:31:44,817  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:31:44,837  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:31:46,448  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:31:46,470  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:31:50,185  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 16:31:50,189  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:31:50,461  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 16:31:50,465  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:31:59,240  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:31:59,312  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:35:57,436  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:35:57,452  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:35:57,613  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:35:57,624  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:39:06,667  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 16:39:06,674  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:39:06,881  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 16:39:06,884  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:39:20,324  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 16:39:20,326  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 16:39:20,442  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:39:24,968  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 16:39:24,972  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:39:28,900  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 16:42:55,747  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:42:55,786  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:42:57,243  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:42:57,270  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:42:58,729  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:42:58,755  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:43:00,525  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:43:00,552  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:43:02,506  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:43:02,531  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:43:12,610  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 16:43:12,614  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:43:12,853  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 16:43:12,856  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:43:26,619  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 16:43:26,620  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 16:43:26,768  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:43:31,470  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 16:43:31,473  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:43:35,518  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 16:45:13,966  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:45:14,018  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:45:15,404  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:45:15,432  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:45:16,806  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:45:16,833  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:45:18,320  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:45:18,348  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:45:19,842  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:45:19,871  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:45:23,496  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 16:45:23,510  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:45:23,728  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 16:45:23,731  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:45:37,050  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 16:45:37,051  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 16:45:37,181  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:45:42,042  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 16:45:42,045  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:45:45,932  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 16:50:55,442  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 16:50:55,450  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:50:55,657  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 16:50:55,661  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:51:09,056  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 16:51:09,056  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 16:51:09,191  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:51:13,579  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 16:51:13,583  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:51:17,404  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 16:52:06,247  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:52:06,283  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:52:07,787  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:52:07,814  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:52:09,375  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:52:09,404  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:52:10,905  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:52:10,931  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:52:12,453  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 16:52:12,478  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 16:52:16,119  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 16:52:16,123  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 16:52:16,338  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 16:52:16,341  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 16:52:29,578  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 16:52:29,579  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 16:52:29,684  INFO [main] LogReport:37 - validating cart details
+2019-11-12 16:52:34,422  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 16:52:34,425  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 16:52:38,323  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 17:00:55,468  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:00:55,505  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:00:57,083  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:00:57,107  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:00:58,871  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:00:58,897  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:01:00,525  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:01:00,555  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:01:02,553  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:01:02,576  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:01:06,203  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 17:01:06,207  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:01:06,415  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 17:01:06,418  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:01:19,628  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 17:01:19,629  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 17:01:19,632  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:03:08,333  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:03:08,367  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:03:09,724  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:03:09,751  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:03:11,286  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:03:11,314  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:03:12,857  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:03:12,898  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:03:14,533  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:03:14,560  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:03:18,195  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 17:03:18,201  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:03:18,438  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 17:03:18,440  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:03:31,729  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 17:03:31,730  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 17:03:31,895  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:05:59,208  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:05:59,243  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:06:00,787  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:06:00,815  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:06:02,677  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:06:02,703  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:06:04,329  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:06:04,355  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:06:06,423  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:06:06,451  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:06:10,041  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 17:06:10,046  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:06:10,252  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 17:06:10,255  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:06:23,647  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 17:06:23,648  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 17:06:23,796  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:12:49,217  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:12:49,236  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:12:49,534  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:13:33,980  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:13:34,006  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:13:34,483  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:15:33,457  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:15:33,469  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:15:33,738  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:18:08,912  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:18:08,947  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:18:10,320  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:18:10,349  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:18:11,766  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:18:11,793  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:18:13,443  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:18:13,470  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:18:15,401  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:18:15,429  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:18:19,101  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 17:18:19,120  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:18:19,308  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 17:18:19,308  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:18:32,669  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 17:18:32,670  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 17:18:32,873  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:21:20,774  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:21:20,813  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:21:22,314  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:21:22,342  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:21:23,918  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:21:23,946  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:21:25,514  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:21:25,541  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:21:27,247  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:21:27,272  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:21:30,800  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 17:21:30,805  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:21:31,009  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 17:21:31,012  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:21:44,295  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 17:21:44,296  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 17:21:44,715  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:21:49,239  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:21:49,454  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:22:20,943  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:22:24,801  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 17:25:51,459  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:25:51,491  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:25:52,831  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:25:52,856  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:25:54,358  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:25:54,386  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:25:55,935  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:25:55,963  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:25:57,813  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:25:57,841  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:26:01,405  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 17:26:01,411  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:26:01,598  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 17:26:01,598  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:26:15,071  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 17:26:15,072  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 17:26:15,501  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:26:22,806  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:28:16,726  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:28:16,778  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:28:18,354  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:28:18,386  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:28:20,082  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:28:20,107  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:28:21,653  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:28:21,681  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:28:23,560  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:28:23,582  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:28:27,237  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 17:28:27,241  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:28:27,492  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 17:28:27,495  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:28:41,070  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 17:28:41,070  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 17:28:41,570  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:28:46,636  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:28:46,853  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:29:18,910  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:29:22,855  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 17:30:52,867  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:30:52,903  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:30:54,544  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:30:54,573  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:30:56,018  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:30:56,047  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:30:57,680  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:30:57,707  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:30:59,474  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:30:59,501  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:31:03,179  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 17:31:03,183  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:31:03,495  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 17:31:03,499  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:31:17,084  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 17:31:17,085  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 17:31:17,497  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:31:23,809  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:31:24,043  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:31:57,719  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:32:01,631  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 17:34:16,090  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:34:16,123  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:34:17,706  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:34:17,734  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:34:19,386  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:34:19,414  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:34:20,947  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:34:20,973  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:34:23,043  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:34:23,070  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:34:26,784  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 17:34:26,789  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:34:26,985  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 17:34:26,985  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:34:45,367  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 17:34:45,368  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 17:34:45,820  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:34:47,078  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:34:47,316  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:34:48,531  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:34:48,749  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:34:50,122  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:34:50,339  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:34:51,499  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:34:51,684  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:34:53,272  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:34:53,514  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:34:54,758  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:34:54,952  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:34:56,374  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:34:56,604  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:34:57,862  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:34:58,026  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:34:59,197  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:34:59,328  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:00,487  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:00,626  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:01,749  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:01,865  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:03,027  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:03,130  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:04,261  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:04,391  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:05,515  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:05,633  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:06,736  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:06,861  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:08,007  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:08,116  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:09,252  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:09,416  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:10,754  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:11,041  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:12,173  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:12,272  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:13,392  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:13,489  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:14,657  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:14,748  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:15,860  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:15,960  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:17,091  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:17,191  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:18,307  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:18,408  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:19,450  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:19,557  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:20,675  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:20,766  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:21,945  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:22,030  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:23,310  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:23,405  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:24,745  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:24,835  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:25,991  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:26,088  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:27,308  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:27,399  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:28,626  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:28,713  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:29,888  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:29,991  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:31,155  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:31,235  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:32,421  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:32,508  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:33,679  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:33,772  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:34,989  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:35,078  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:36,531  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:36,637  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:37,843  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:37,941  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:39,128  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:39,220  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:40,374  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:40,446  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:41,621  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:41,701  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:42,806  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:42,890  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:44,158  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:44,250  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:45,435  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:45,522  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:46,746  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:46,819  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:35:47,982  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:35:48,058  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:37:21,975  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:37:22,009  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:37:23,453  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:37:23,481  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:37:25,163  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:37:25,190  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:37:26,746  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:37:26,780  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:37:28,624  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 17:37:28,648  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 17:37:32,306  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 17:37:32,310  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 17:37:32,533  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 17:37:32,536  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 17:37:50,845  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 17:37:50,845  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 17:37:50,901  INFO [main] LogReport:37 - validating cart details
+2019-11-12 17:37:52,564  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 17:37:52,567  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 17:37:56,592  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 18:03:11,777  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 18:03:11,812  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 18:03:11,812  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 18:03:15,665  INFO [main] LogReport:37 - product name is correct
+2019-11-12 18:03:19,405  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 18:03:19,406  INFO [main] LogReport:37 - Validation done
+2019-11-12 18:03:25,822  INFO [main] LogReport:37 - product name is correct
+2019-11-12 18:03:28,102  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 18:03:28,103  INFO [main] LogReport:37 - Validation done
+2019-11-12 18:03:34,162  INFO [main] LogReport:37 - product name is correct
+2019-11-12 18:03:36,415  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 18:03:36,416  INFO [main] LogReport:37 - Validation done
+2019-11-12 18:03:42,028  INFO [main] LogReport:37 - product name is correct
+2019-11-12 18:03:44,350  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 18:03:44,351  INFO [main] LogReport:37 - Validation done
+2019-11-12 18:10:18,281  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 18:10:18,315  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 18:10:18,316  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 18:10:22,380  INFO [main] LogReport:37 - product name is correct
+2019-11-12 18:10:24,709  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 18:10:24,710  INFO [main] LogReport:37 - Validation done
+2019-11-12 18:10:31,203  INFO [main] LogReport:37 - product name is correct
+2019-11-12 18:10:33,920  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 18:10:33,921  INFO [main] LogReport:37 - Validation done
+2019-11-12 18:46:02,675  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 18:46:02,711  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 18:46:02,712  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 18:46:06,630  INFO [main] LogReport:37 - product name is correct
+2019-11-12 18:46:09,090  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 18:46:09,090  INFO [main] LogReport:37 - Validation done
+2019-11-12 18:46:14,496  INFO [main] LogReport:37 - product name is correct
+2019-11-12 18:46:16,906  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 18:46:16,907  INFO [main] LogReport:37 - Validation done
+2019-11-12 18:55:23,965  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 18:55:23,997  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 18:55:25,373  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 18:55:25,401  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 18:55:26,910  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 18:55:26,940  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 18:55:28,775  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 18:55:28,803  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 18:55:30,691  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 18:55:30,725  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 18:55:34,724  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 18:55:34,724  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 18:55:34,986  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 18:55:34,986  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 18:55:54,601  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 18:55:54,601  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 18:55:54,656  INFO [main] LogReport:37 - validating cart details
+2019-11-12 18:55:56,528  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 18:55:56,528  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 18:56:00,727  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-12 18:56:05,599  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 18:56:05,622  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 18:56:05,626  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 18:56:08,589  INFO [main] LogReport:37 - product name is correct
+2019-11-12 18:56:11,097  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 18:56:11,097  INFO [main] LogReport:37 - Validation done
+2019-11-12 18:56:16,766  INFO [main] LogReport:37 - product name is correct
+2019-11-12 18:56:19,172  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 18:56:19,172  INFO [main] LogReport:37 - Validation done
+2019-11-12 19:02:16,205  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 19:02:16,236  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 19:02:16,251  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 19:02:20,111  INFO [main] LogReport:37 - product name is correct
+2019-11-12 19:02:22,598  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 19:02:22,598  INFO [main] LogReport:37 - Validation done
+2019-11-12 19:02:28,502  INFO [main] LogReport:37 - product name is correct
+2019-11-12 19:02:31,457  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 19:02:31,461  INFO [main] LogReport:37 - Validation done
+2019-11-12 19:04:38,724  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 19:04:38,760  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 19:04:38,760  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 19:04:42,517  INFO [main] LogReport:37 - product name is correct
+2019-11-12 19:04:44,814  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 19:04:44,814  INFO [main] LogReport:37 - Validation done
+2019-11-12 19:04:51,111  INFO [main] LogReport:37 - product name is correct
+2019-11-12 19:04:53,494  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 19:04:53,494  INFO [main] LogReport:37 - Validation done
+2019-11-12 19:06:05,093  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 19:06:05,127  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-12 19:06:05,131  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-12 19:06:08,945  INFO [main] LogReport:37 - product name is correct
+2019-11-12 19:06:11,149  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 19:06:11,149  INFO [main] LogReport:37 - Validation done
+2019-11-12 19:06:17,245  INFO [main] LogReport:37 - product name is correct
+2019-11-12 19:06:19,545  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-12 19:06:19,545  INFO [main] LogReport:37 - Validation done
+2019-11-12 20:26:24,420  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 20:26:24,471  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 20:26:26,236  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 20:26:26,286  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 20:26:28,072  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 20:26:28,101  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 20:26:29,809  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 20:26:29,832  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 20:26:31,663  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-12 20:26:31,693  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-12 20:26:35,618  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-12 20:26:35,622  INFO [main] LogReport:37 - validating viewmens page
+2019-11-12 20:26:35,896  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-12 20:26:35,900  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-12 20:26:57,032  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-12 20:26:57,032  INFO [main] LogReport:37 - clothing validation starting
+2019-11-12 20:26:57,103  INFO [main] LogReport:37 - validating cart details
+2019-11-12 20:26:59,331  INFO [main] LogReport:37 -  cart details are correct
+2019-11-12 20:26:59,336  INFO [main] LogReport:37 - validating updated grand total
+2019-11-12 20:27:03,756  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-13 12:16:55,513  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 12:16:55,587  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 12:16:56,416  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 12:16:56,432  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 12:16:57,289  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 12:16:57,308  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 12:16:58,363  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 12:16:58,377  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 12:16:59,774  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 12:16:59,792  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 12:17:02,817  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-13 12:17:02,818  INFO [main] LogReport:37 - validating viewmens page
+2019-11-13 12:17:02,892  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-13 12:17:02,894  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-13 12:17:04,676  INFO [main] LogReport:37 - validating cart details
+2019-11-13 12:17:11,321  INFO [main] LogReport:37 - validating updated grand total
+2019-11-13 12:17:29,882  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 12:17:29,930  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-13 12:17:29,930  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-13 12:17:31,999  INFO [main] LogReport:37 - product name is correct
+2019-11-13 12:17:35,024  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-13 12:17:35,024  INFO [main] LogReport:37 - Validation done
+2019-11-13 12:17:38,865  INFO [main] LogReport:37 - product name is correct
+2019-11-13 12:17:40,466  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-13 12:17:40,466  INFO [main] LogReport:37 - Validation done
+2019-11-13 16:06:19,882  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 16:06:19,958  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 16:06:24,106  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 16:06:24,127  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 16:06:25,059  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 16:06:25,086  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 16:06:26,163  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 16:06:26,180  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 16:06:27,703  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 16:06:27,716  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 16:06:30,580  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-13 16:06:30,582  INFO [main] LogReport:37 - validating viewmens page
+2019-11-13 16:06:30,666  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-13 16:06:30,668  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-13 16:06:32,344  INFO [main] LogReport:37 - validating cart details
+2019-11-13 16:06:39,025  INFO [main] LogReport:37 - validating updated grand total
+2019-11-13 16:07:02,972  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 16:07:03,048  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-13 16:07:03,049  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-13 16:07:05,071  INFO [main] LogReport:37 - product name is correct
+2019-11-13 16:07:11,719  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-13 16:07:11,720  INFO [main] LogReport:37 - Validation done
+2019-11-13 16:07:15,817  INFO [main] LogReport:37 - product name is correct
+2019-11-13 16:07:18,030  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-13 16:07:18,031  INFO [main] LogReport:37 - Validation done
+2019-11-13 17:17:49,010  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 17:17:49,044  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 17:17:49,864  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 17:17:49,885  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 17:17:50,752  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 17:17:50,784  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 17:17:51,642  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 17:17:51,666  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 17:17:52,777  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 17:17:52,795  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-13 17:17:55,685  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-13 17:17:55,687  INFO [main] LogReport:37 - validating viewmens page
+2019-11-13 17:17:55,847  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-13 17:17:55,849  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-13 17:18:11,430  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-13 17:18:11,430  INFO [main] LogReport:37 - clothing validation starting
+2019-11-13 17:18:11,490  INFO [main] LogReport:37 - validating cart details
+2019-11-13 17:18:12,470  INFO [main] LogReport:37 -  cart details are correct
+2019-11-13 17:18:12,471  INFO [main] LogReport:37 - validating updated grand total
+2019-11-13 17:18:15,072  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-13 17:18:32,339  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-13 17:18:32,368  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-13 17:18:32,368  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-13 17:18:33,804  INFO [main] LogReport:37 - product name is correct
+2019-11-13 17:18:40,118  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-13 17:18:40,119  INFO [main] LogReport:37 - Validation done
+2019-11-13 17:18:44,059  INFO [main] LogReport:37 - product name is correct
+2019-11-13 17:18:45,763  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-13 17:18:45,763  INFO [main] LogReport:37 - Validation done
+2019-11-13 20:52:39,886  INFO [main] LogReport:37 - validating viewmens page
+2019-11-13 20:52:39,966  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-13 20:52:40,086  INFO [main] LogReport:37 - validating cart details
+2019-11-13 20:52:40,806  INFO [main] LogReport:37 - validating updated grand total
+2019-11-14 11:17:34,679  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:17:34,733  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 11:17:36,358  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:17:36,383  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 11:17:37,956  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:17:37,981  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 11:17:39,699  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:17:39,724  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 11:17:41,735  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:17:41,759  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 11:17:45,445  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-14 11:17:45,447  INFO [main] LogReport:37 - validating viewmens page
+2019-11-14 11:17:45,716  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-14 11:17:45,717  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-14 11:18:10,369  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-14 11:18:10,371  INFO [main] LogReport:37 - clothing validation starting
+2019-11-14 11:18:10,544  INFO [main] LogReport:37 - validating cart details
+2019-11-14 11:18:15,528  INFO [main] LogReport:37 -  cart details are correct
+2019-11-14 11:18:15,530  INFO [main] LogReport:37 - validating updated grand total
+2019-11-14 11:18:20,964  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-14 11:18:29,681  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:18:29,707  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-14 11:18:29,707  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-14 11:18:32,797  INFO [main] LogReport:37 - product name is correct
+2019-11-14 11:18:36,509  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-14 11:18:36,510  INFO [main] LogReport:37 - Validation done
+2019-11-14 11:18:42,190  INFO [main] LogReport:37 - product name is correct
+2019-11-14 11:18:44,827  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-14 11:18:44,828  INFO [main] LogReport:37 - Validation done
+2019-11-14 11:28:01,733  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:28:01,758  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 11:28:02,566  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:28:02,586  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 11:28:03,512  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:28:03,532  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 11:28:04,462  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:28:04,479  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 11:28:05,585  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:28:05,602  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 11:28:08,428  INFO [main] LogReport:37 - validating viewmens page
+2019-11-14 11:28:14,493  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-14 11:28:20,585  INFO [main] LogReport:37 - validating cart details
+2019-11-14 11:28:27,622  INFO [main] LogReport:37 - validating updated grand total
+2019-11-14 11:28:38,224  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 11:28:38,269  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-14 11:28:38,271  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-14 11:28:39,731  INFO [main] LogReport:37 - product name is correct
+2019-11-14 11:28:42,474  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-14 11:28:42,475  INFO [main] LogReport:37 - Validation done
+2019-11-14 11:28:46,152  INFO [main] LogReport:37 - product name is correct
+2019-11-14 11:28:47,822  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-14 11:28:47,823  INFO [main] LogReport:37 - Validation done
+2019-11-14 12:41:31,338  INFO [TestNG-tests-2] LogReport:37 - Starting Redirection validation
+2019-11-14 12:41:31,367  INFO [TestNG-tests-2] LogReport:37 - Redirection is on the correct page
+2019-11-14 12:41:31,367  INFO [TestNG-tests-2] LogReport:37 - Starting the homepage testing
+2019-11-14 12:41:33,666  INFO [TestNG-tests-1] LogReport:37 - Starting Redirection validation
+2019-11-14 12:41:33,690  INFO [TestNG-tests-1] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 12:41:34,470  INFO [TestNG-tests-2] LogReport:37 - product name is correct
+2019-11-14 12:41:35,140  INFO [TestNG-tests-1] LogReport:37 - Starting Redirection validation
+2019-11-14 12:41:35,164  INFO [TestNG-tests-1] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 12:41:36,483  INFO [TestNG-tests-1] LogReport:37 - Starting Redirection validation
+2019-11-14 12:41:36,531  INFO [TestNG-tests-1] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 12:41:37,783  INFO [TestNG-tests-1] LogReport:37 - Starting Redirection validation
+2019-11-14 12:41:37,844  INFO [TestNG-tests-1] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 12:41:39,367  INFO [TestNG-tests-1] LogReport:37 - Starting Redirection validation
+2019-11-14 12:41:39,384  INFO [TestNG-tests-1] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-14 12:41:40,753  INFO [TestNG-tests-2] LogReport:37 - product price and taxes is correct
+2019-11-14 12:41:40,753  INFO [TestNG-tests-2] LogReport:37 - Validation done
+2019-11-14 12:41:44,114  INFO [TestNG-tests-1] LogReport:37 - selecting clothing gender
+2019-11-14 12:41:44,198  INFO [TestNG-tests-1] LogReport:37 - validating viewmens page
+2019-11-14 12:41:44,346  INFO [TestNG-tests-1] LogReport:37 - Redirected to viewmens page
+2019-11-14 12:41:44,350  INFO [TestNG-tests-1] LogReport:37 - select shirt and color with size
+2019-11-14 12:41:45,931  INFO [TestNG-tests-2] LogReport:37 - product name is correct
+2019-11-14 12:41:46,668  INFO [TestNG-tests-1] LogReport:37 - validating cart details
+2019-11-14 12:41:52,169  INFO [TestNG-tests-2] LogReport:37 - product price and taxes is correct
+2019-11-14 12:41:52,169  INFO [TestNG-tests-2] LogReport:37 - Validation done
+2019-11-14 12:41:54,041  INFO [TestNG-tests-1] LogReport:37 - validating updated grand total
+2019-11-14 16:24:25,587  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 16:24:25,638  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-14 16:24:25,639  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-14 16:29:26,540  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 16:29:26,605  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-14 16:29:26,606  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-14 16:29:30,195  INFO [main] LogReport:37 - product name is correct
+2019-11-14 16:29:33,865  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-14 16:29:33,866  INFO [main] LogReport:37 - Validation done
+2019-11-14 16:29:42,733  INFO [main] LogReport:37 - product name is correct
+2019-11-14 16:29:45,230  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-14 16:29:45,231  INFO [main] LogReport:37 - Validation done
+2019-11-14 16:48:49,993  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-14 16:48:50,030  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-14 16:48:50,030  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-14 16:48:53,320  INFO [main] LogReport:37 - product name is correct
+2019-11-14 16:48:56,287  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-14 16:48:56,288  INFO [main] LogReport:37 - Validation done
+2019-11-14 16:49:01,599  INFO [main] LogReport:37 - product name is correct
+2019-11-14 16:49:04,144  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-14 16:49:04,145  INFO [main] LogReport:37 - Validation done
+2019-11-15 12:31:11,876  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 12:31:11,987  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 12:31:11,991  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 12:33:45,835  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 12:33:45,871  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 12:33:45,871  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 12:36:38,331  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 12:36:38,370  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 12:36:38,370  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 12:39:33,221  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 12:39:33,259  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 12:39:33,259  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 12:44:12,236  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 12:44:12,272  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 12:44:12,272  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 12:44:15,877  INFO [main] LogReport:37 - product name is correct
+2019-11-15 12:44:20,508  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 12:44:20,508  INFO [main] LogReport:37 - Validation done
+2019-11-15 12:44:26,436  INFO [main] LogReport:37 - product name is correct
+2019-11-15 12:44:28,909  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 12:44:28,910  INFO [main] LogReport:37 - Validation done
+2019-11-15 12:51:48,305  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 12:51:48,344  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 12:51:48,345  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 12:51:52,089  INFO [main] LogReport:37 - product name is correct
+2019-11-15 12:51:55,453  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 12:51:55,454  INFO [main] LogReport:37 - Validation done
+2019-11-15 12:52:01,076  INFO [main] LogReport:37 - product name is correct
+2019-11-15 12:52:03,344  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 12:52:03,345  INFO [main] LogReport:37 - Validation done
+2019-11-15 12:55:40,702  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 12:55:40,730  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 12:55:40,731  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 12:55:44,088  INFO [main] LogReport:37 - product name is correct
+2019-11-15 12:55:46,518  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 12:55:46,519  INFO [main] LogReport:37 - Validation done
+2019-11-15 12:55:51,867  INFO [main] LogReport:37 - product name is correct
+2019-11-15 12:55:54,232  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 12:55:54,232  INFO [main] LogReport:37 - Validation done
+2019-11-15 12:57:44,220  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 12:57:44,258  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 12:57:44,258  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 12:57:47,277  INFO [main] LogReport:37 - product name is correct
+2019-11-15 12:57:49,491  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 12:57:49,492  INFO [main] LogReport:37 - Validation done
+2019-11-15 12:57:54,813  INFO [main] LogReport:37 - product name is correct
+2019-11-15 12:57:57,103  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 12:57:57,104  INFO [main] LogReport:37 - Validation done
+2019-11-15 12:59:11,915  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 12:59:11,950  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 12:59:11,951  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 12:59:15,371  INFO [main] LogReport:37 - product name is correct
+2019-11-15 12:59:18,184  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 12:59:18,184  INFO [main] LogReport:37 - Validation done
+2019-11-15 12:59:23,474  INFO [main] LogReport:37 - product name is correct
+2019-11-15 12:59:25,693  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 12:59:25,694  INFO [main] LogReport:37 - Validation done
+2019-11-15 13:04:23,002  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 13:04:23,033  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 13:04:23,033  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 13:04:26,373  INFO [main] LogReport:37 - product name is correct
+2019-11-15 13:04:28,802  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 13:04:28,802  INFO [main] LogReport:37 - Validation done
+2019-11-15 13:04:34,381  INFO [main] LogReport:37 - product name is correct
+2019-11-15 13:04:36,626  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 13:04:36,626  INFO [main] LogReport:37 - Validation done
+2019-11-15 13:09:50,216  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 13:09:50,256  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 13:09:50,260  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 13:09:53,460  INFO [main] LogReport:37 - product name is correct
+2019-11-15 13:09:55,854  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 13:09:55,854  INFO [main] LogReport:37 - Validation done
+2019-11-15 13:10:01,425  INFO [main] LogReport:37 - product name is correct
+2019-11-15 13:10:03,695  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 13:10:03,695  INFO [main] LogReport:37 - Validation done
+2019-11-15 13:12:20,298  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 13:12:20,335  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 13:12:20,335  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 13:12:23,582  INFO [main] LogReport:37 - product name is correct
+2019-11-15 13:12:25,925  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 13:12:25,925  INFO [main] LogReport:37 - Validation done
+2019-11-15 13:12:31,654  INFO [main] LogReport:37 - product name is correct
+2019-11-15 13:12:33,975  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 13:12:33,979  INFO [main] LogReport:37 - Validation done
+2019-11-15 14:09:46,620  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 14:09:46,668  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 14:09:46,669  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 14:09:50,067  INFO [main] LogReport:37 - product name is correct
+2019-11-15 14:09:52,632  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 14:09:52,633  INFO [main] LogReport:37 - Validation done
+2019-11-15 14:09:58,200  INFO [main] LogReport:37 - product name is correct
+2019-11-15 14:10:01,014  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 14:10:01,015  INFO [main] LogReport:37 - Validation done
+2019-11-15 14:22:08,312  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 14:22:08,343  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 14:22:08,344  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 14:22:11,412  INFO [main] LogReport:37 - product name is correct
+2019-11-15 14:22:13,728  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 14:22:13,729  INFO [main] LogReport:37 - Validation done
+2019-11-15 14:22:18,820  INFO [main] LogReport:37 - product name is correct
+2019-11-15 14:22:20,884  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 14:22:20,884  INFO [main] LogReport:37 - Validation done

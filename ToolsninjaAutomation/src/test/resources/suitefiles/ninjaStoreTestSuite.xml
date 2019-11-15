@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ninjaStoreTestSuite">
+
+	<test thread-count="5" name="ninjaStoreTestScenario">
+		<classes>
+			<class
+				name="com.atmecs.ToolsninjaAutomation.testScripts.NinjaStoreTestScripts" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->

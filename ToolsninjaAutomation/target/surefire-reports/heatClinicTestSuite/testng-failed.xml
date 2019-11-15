@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [heatClinicTestSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="heatClinicTestScenario(failed)" verbose="0">
+    <classes>
+      <class name="com.atmecs.ToolsninjaAutomation.testScripts.HeatClinicTestScripts">
+        <methods>
+          <include name="validateCart"/>
+          <include name="validateUpdatedGrandTotal"/>
+          <include name="chooseShirt"/>
+          <include name="selectGenderClothing"/>
+          <include name="validateMensClothing"/>
+          <include name="validateTitles"/>
+          <include name="getUrl"/>
+          <include name="intitailizeBrowser"/>
+          <include name="tearResource"/>
+        </methods>
+      </class> <!-- com.atmecs.ToolsninjaAutomation.testScripts.HeatClinicTestScripts -->
+    </classes>
+  </test> <!-- heatClinicTestScenario(failed) -->
+</suite> <!-- Failed suite [heatClinicTestSuite] -->
