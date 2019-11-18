@@ -4,6 +4,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
 import com.atmecs.ToolsninjaAutomation.constants.FilePath;
+import com.relevantcodes.extentreports.LogStatus;
 
 /**
  * In this class, log reports is made.
@@ -35,6 +36,7 @@ public class LogReport {
 	 */
 	public void info(String message) {
 		logger.info(message);
+		ThreadPool.getTest().log(LogStatus.INFO, message);
 
 	}
 }

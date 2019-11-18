@@ -13,6 +13,7 @@ import com.atmecs.ToolsninjaAutomation.constants.NullCellValueException;
 import com.atmecs.ToolsninjaAutomation.constants.ValidatingData;
 import com.atmecs.ToolsninjaAutomation.databaseUtils.Fetch;
 import com.atmecs.ToolsninjaAutomation.logReports.LogReport;
+import com.atmecs.ToolsninjaAutomation.logReports.ThreadPool;
 import com.atmecs.ToolsninjaAutomation.pages.NinjaStorePage;
 import com.atmecs.ToolsninjaAutomation.testBase.TestBase;
 import com.atmecs.ToolsninjaAutomation.testflow.NinjaStorePageFlow;
@@ -36,7 +37,7 @@ public class NinjaStoreTestScripts extends TestBase {
 	public void getUrl() {
 		String url = baseClass.getProperty("URL");
 		driver.get(url);
-
+		ThreadPool.set(driver);
 		driver.manage().window().maximize();
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(6, TimeUnit.SECONDS);
@@ -64,7 +65,7 @@ public class NinjaStoreTestScripts extends TestBase {
 		String productName = null;
 		String price = null, exTax = null;
 		int count = 1;
-		fetch = new Fetch("saurabh");
+		fetch = new Fetch(FilePath.DATABASENAME);
 		while (count <= fetch.getRowCount("products")) {
 			try {
 
@@ -104,7 +105,7 @@ public class NinjaStoreTestScripts extends TestBase {
 
 		int count = 1;
 		String quantityOfProduct = null;
-		fetch = new Fetch("saurabh");
+		fetch = new Fetch(FilePath.DATABASENAME);
 		while (count <= fetch.getRowCount("products")) {
 			quantityOfProduct = fetch.fetchData("products", count, "quantity");
 
@@ -141,7 +142,7 @@ public class NinjaStoreTestScripts extends TestBase {
 
 			e.printStackTrace();
 		}
-		fetch = new Fetch("saurabh");
+		fetch = new Fetch(FilePath.DATABASENAME);
 		while (count <= fetch.getRowCount("wrongproducts")) {
 			try {
 

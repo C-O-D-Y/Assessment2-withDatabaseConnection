@@ -1078,3 +1078,99 @@
 2019-11-15 14:22:18,820  INFO [main] LogReport:37 - product name is correct
 2019-11-15 14:22:20,884  INFO [main] LogReport:37 - product price and taxes is correct
 2019-11-15 14:22:20,884  INFO [main] LogReport:37 - Validation done
+2019-11-15 14:55:54,191  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 14:55:54,233  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-15 14:55:55,591  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 14:55:55,617  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-15 14:55:57,249  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 14:55:57,274  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-15 14:55:59,086  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 14:55:59,117  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-15 14:56:01,185  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 14:56:01,213  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-15 14:56:05,112  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-15 14:56:05,112  INFO [main] LogReport:37 - validating viewmens page
+2019-11-15 14:56:05,384  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-15 14:56:05,384  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-15 14:56:26,544  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-15 14:56:26,544  INFO [main] LogReport:37 - clothing validation starting
+2019-11-15 14:56:26,618  INFO [main] LogReport:37 - validating cart details
+2019-11-15 14:56:28,857  INFO [main] LogReport:37 -  cart details are correct
+2019-11-15 14:56:28,861  INFO [main] LogReport:37 - validating updated grand total
+2019-11-15 14:56:33,103  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-15 14:56:40,518  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-15 14:56:40,545  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-15 14:56:40,549  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-15 14:56:44,548  INFO [main] LogReport:37 - product name is correct
+2019-11-15 14:56:47,555  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 14:56:47,555  INFO [main] LogReport:37 - Validation done
+2019-11-15 14:56:53,956  INFO [main] LogReport:37 - product name is correct
+2019-11-15 14:56:56,579  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-15 14:56:56,579  INFO [main] LogReport:37 - Validation done
+2019-11-18 12:29:25,851  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-18 12:29:26,006  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-18 12:29:27,443  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-18 12:29:27,467  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-18 12:29:29,212  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-18 12:29:29,245  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-18 12:29:31,354  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-18 12:29:31,381  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-18 12:29:33,554  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-18 12:29:33,623  INFO [main] LogReport:37 - Validation done, Redirection is on the correct page
+2019-11-18 12:29:37,453  INFO [main] LogReport:37 - selecting clothing gender
+2019-11-18 12:29:37,455  INFO [main] LogReport:37 - validating viewmens page
+2019-11-18 12:29:37,679  INFO [main] LogReport:37 - Redirected to viewmens page
+2019-11-18 12:29:37,681  INFO [main] LogReport:37 - select shirt and color with size
+2019-11-18 12:29:58,531  INFO [main] LogReport:37 - selected the corresponding size and color
+2019-11-18 12:29:58,532  INFO [main] LogReport:37 - clothing validation starting
+2019-11-18 12:29:58,583  INFO [main] LogReport:37 - validating cart details
+2019-11-18 12:30:00,898  INFO [main] LogReport:37 -  cart details are correct
+2019-11-18 12:30:00,899  INFO [main] LogReport:37 - validating updated grand total
+2019-11-18 12:30:04,806  INFO [main] LogReport:37 - Updated amount is correct, Functionality is working properly
+2019-11-18 12:30:11,356  INFO [main] LogReport:37 - Starting Redirection validation
+2019-11-18 12:30:11,383  INFO [main] LogReport:37 - Redirection is on the correct page
+2019-11-18 12:30:11,383  INFO [main] LogReport:37 - Starting the homepage testing
+2019-11-18 12:30:15,945  INFO [main] LogReport:37 - product name is correct
+2019-11-18 12:30:19,607  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-18 12:30:19,607  INFO [main] LogReport:37 - Validation done
+2019-11-18 12:30:24,887  INFO [main] LogReport:37 - product name is correct
+2019-11-18 12:30:27,332  INFO [main] LogReport:37 - product price and taxes is correct
+2019-11-18 12:30:27,333  INFO [main] LogReport:37 - Validation done
+2019-11-18 17:09:39,114  INFO [main] LogReport:38 - Starting Redirection validation
+2019-11-18 17:09:39,151  INFO [main] LogReport:38 - Validation done, Redirection is on the correct page
+2019-11-18 17:09:40,679  INFO [main] LogReport:38 - Starting Redirection validation
+2019-11-18 17:09:40,704  INFO [main] LogReport:38 - Validation done, Redirection is on the correct page
+2019-11-18 17:09:42,438  INFO [main] LogReport:38 - Starting Redirection validation
+2019-11-18 17:09:42,463  INFO [main] LogReport:38 - Validation done, Redirection is on the correct page
+2019-11-18 17:09:44,378  INFO [main] LogReport:38 - Starting Redirection validation
+2019-11-18 17:09:44,405  INFO [main] LogReport:38 - Validation done, Redirection is on the correct page
+2019-11-18 17:09:46,117  INFO [main] LogReport:38 - Starting Redirection validation
+2019-11-18 17:09:46,143  INFO [main] LogReport:38 - Validation done, Redirection is on the correct page
+2019-11-18 17:09:51,049  INFO [main] LogReport:38 - selecting clothing gender
+2019-11-18 17:09:51,214  INFO [main] LogReport:38 - validating viewmens page
+2019-11-18 17:09:51,390  INFO [main] LogReport:38 - Redirected to viewmens page
+2019-11-18 17:09:51,490  INFO [main] LogReport:38 - select shirt and color with size
+2019-11-18 17:10:16,757  INFO [main] LogReport:38 - selected the corresponding size and color
+2019-11-18 17:10:16,761  INFO [main] LogReport:38 - clothing validation starting
+2019-11-18 17:10:17,135  INFO [main] LogReport:38 - validating cart details
+2019-11-18 17:10:18,966  INFO [main] LogReport:38 - validating updated grand total
+2019-11-18 17:10:24,531  INFO [main] LogReport:38 - Updated amount is correct, Functionality is working properly
+2019-11-18 17:10:25,202 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-18 17:10:25,210 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-18 17:10:25,214 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-18 17:10:25,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-18 17:10:25,218 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-11-18 17:10:32,647  INFO [main] LogReport:38 - Starting Redirection validation
+2019-11-18 17:10:32,679  INFO [main] LogReport:38 - Redirection is on the correct page
+2019-11-18 17:10:32,679  INFO [main] LogReport:38 - Starting the homepage testing
+2019-11-18 17:10:37,676  INFO [main] LogReport:38 - product name is correct
+2019-11-18 17:10:41,146  INFO [main] LogReport:38 - product price and taxes is correct
+2019-11-18 17:10:41,146  INFO [main] LogReport:38 - Validation done
+2019-11-18 17:10:47,019  INFO [main] LogReport:38 - product name is correct
+2019-11-18 17:10:49,884  INFO [main] LogReport:38 - product price and taxes is correct
+2019-11-18 17:10:49,884  INFO [main] LogReport:38 - Validation done
+2019-11-18 17:11:23,112 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-11-18 17:11:23,112 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-11-18 17:11:23,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-11-18 17:11:23,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-11-18 17:11:23,116 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

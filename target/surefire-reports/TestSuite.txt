@@ -1,10 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 18, Failures: 2, Errors: 0, Skipped: 16, Time elapsed: 2.213 s <<< FAILURE! - in TestSuite
-intitailizeBrowser(com.atmecs.ToolsninjaAutomation.testScripts.HeatClinicTestScripts)  Time elapsed: 1.655 s  <<< FAILURE!
-java.lang.NullPointerException
-
-intitailizeBrowser(com.atmecs.ToolsninjaAutomation.testScripts.NinjaStoreTestScripts)  Time elapsed: 1.873 s  <<< FAILURE!
-java.lang.NullPointerException
-
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 116.239 s - in TestSuite

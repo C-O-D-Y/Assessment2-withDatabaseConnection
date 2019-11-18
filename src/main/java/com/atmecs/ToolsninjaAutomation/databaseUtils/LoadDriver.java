@@ -9,13 +9,13 @@ public class LoadDriver {
 	static String user = "root";
 	static String passwd = "Infj@12345";
 
-	public Connection loadingDriver(String tableName) {
+	public Connection loadingDriver(String dataBaseName) {
 		// TODO Auto-generated method stub
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			System.out.println("Driver loaded successfully");
-			Connection con= DriverManager.getConnection("jdbc:mysql://localhost/" + tableName , user, passwd);
-			
+			Connection con = DriverManager.getConnection("jdbc:mysql://localhost/" + dataBaseName, user, passwd);
+
 			System.out.println("Connection build successfully");
 			return con;
 		} catch (ClassNotFoundException e) {

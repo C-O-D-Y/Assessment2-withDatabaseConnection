@@ -32,4 +32,5 @@ public class FilePath {
 	public final static int TIMEOUT_INSECONDS = 30;
 	public static final String CLASSNAME = RESOURCES_HOME + "testData" + File.separator
 			+ "heatClinicAndNinjaStoreTestData.xlsx";
+	public final static String DATABASENAME="saurabh";
 }

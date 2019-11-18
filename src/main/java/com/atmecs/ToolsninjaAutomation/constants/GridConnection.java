@@ -9,12 +9,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
-
 /**
  * In this class, grid connection is being done
  */
 public class GridConnection {
-	 public URL url;
+	public URL url;
 	String nodeurl;
 
 	/**
@@ -31,6 +30,7 @@ public class GridConnection {
 			e.printStackTrace();
 		}
 		switch (browser) {
+
 		case "firefox":
 			capability = DesiredCapabilities.firefox();
 			capability.setBrowserName("firefox");

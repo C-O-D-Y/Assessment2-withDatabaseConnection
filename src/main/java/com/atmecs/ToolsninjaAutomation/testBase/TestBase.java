@@ -97,6 +97,5 @@ public class TestBase {
 	@AfterClass
 	public void tearResource() {
 		driver.close();
-
 	}
 }

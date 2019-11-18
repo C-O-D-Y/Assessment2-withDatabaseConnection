@@ -11,6 +11,7 @@ import com.atmecs.ToolsninjaAutomation.constants.Locators;
 import com.atmecs.ToolsninjaAutomation.constants.NullCellValueException;
 import com.atmecs.ToolsninjaAutomation.constants.ValidatingData;
 import com.atmecs.ToolsninjaAutomation.logReports.LogReport;
+import com.atmecs.ToolsninjaAutomation.logReports.ThreadPool;
 import com.atmecs.ToolsninjaAutomation.pages.HeatClinicPage;
 import com.atmecs.ToolsninjaAutomation.testBase.TestBase;
 import com.atmecs.ToolsninjaAutomation.testflow.HeatClinicPageFlow;
@@ -30,7 +31,7 @@ public class HeatClinicTestScripts extends TestBase {
 	public void getUrl() {
 		String url2 = baseClass.getProperty("URL2");
 		driver.get(url2);
-
+		ThreadPool.set(driver);
 		driver.manage().window().maximize();
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(6, TimeUnit.SECONDS);
@@ -45,7 +46,7 @@ public class HeatClinicTestScripts extends TestBase {
 			rowNumber = excelData.getNoOfRows(FilePath.TESTDATA_FILE, "heatClinicPageTitles");
 			System.out.println(rowNumber);
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
+
 			e.printStackTrace();
 		}
 
@@ -85,7 +86,7 @@ public class HeatClinicTestScripts extends TestBase {
 		try {
 			heatClinicFlow.selectShirt(data.getValidatingData("personalizeName"));
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
+
 			e.printStackTrace();
 		}
 		log.info("selected the corresponding size and color");
@@ -108,7 +109,7 @@ public class HeatClinicTestScripts extends TestBase {
 			rowNumber = excelData.getNoOfRows(FilePath.TESTDATA_FILE, "heatClinicShirtConfig");
 			System.out.println(rowNumber);
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
+
 			e.printStackTrace();
 		}
 		log.info("validating cart details");
