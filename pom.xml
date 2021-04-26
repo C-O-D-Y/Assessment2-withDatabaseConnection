@@ -17,7 +17,7 @@
 		<testNG.version>6.14.3</testNG.version>
 		<apachePOI.version>4.1.0</apachePOI.version>
 		<extentReport.relevantcodes.version>2.41.2</extentReport.relevantcodes.version>
-		<commonsIO.version>2.4</commonsIO.version>
+		<commonsIO.version>2.7</commonsIO.version>
 		<seleniumRemoteDriver.version>3.141.59</seleniumRemoteDriver.version>
 		<maven.compiler.version>3.6.1</maven.compiler.version>
 		<maven.javadoc.version>3.1.1</maven.javadoc.version>
